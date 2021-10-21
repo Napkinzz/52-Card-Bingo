@@ -1,0 +1,530 @@
+******************************
+Welcome to Playing Card Bingo!
+******************************
+Creating bingo deck...
+Please enter filename to initialize deck: filedoesntexist.txt
+Problem with filename provided. Creating bingo deck...
+Please enter filename to initialize deck: bingoDeck.txt
+Creating calling deck...
+Please enter filename to initialize deck: callingDeck_line_Awins.txt
+Please select playing mode for this round: (L)ine, (C)orners, (F)ull > L
+Play speed round (i.e. compare card ranks only) (Y/N)? n
+
+Round 1 beginning...
+Player A:
+[ KS ][ AH ][ 6C ][ 5H ][ KC ]
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+[ JH ][ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ KS ]
+Player A:
+ [ ]  [ AH ][ 6C ][ 5H ][ KC ]
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+[ JH ][ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ KC ]
+Player A:
+ [ ]  [ AH ][ 6C ][ 5H ] [ ]  
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+[ JH ][ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ AH ]
+Player A:
+ [ ]   [ ]  [ 6C ][ 5H ] [ ]  
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+[ JH ][ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ JH ]
+Player A:
+ [ ]   [ ]  [ 6C ][ 5H ] [ ]  
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+ [ ]  [ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ 6C ]
+Player A:
+ [ ]   [ ]   [ ]  [ 5H ] [ ]  
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+ [ ]  [ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ 5H ]
+Player A:
+ [ ]   [ ]   [ ]   [ ]   [ ]  
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+            BINGO!            
+Player B:
+ [ ]  [ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+Round 1: Player A won!
+Play another round (Y/N)? y
+Please select playing mode for this round: (L)ine, (C)orners, (F)ull > L
+Play speed round (i.e. compare card ranks only) (Y/N)? No
+
+Round 2 beginning...
+Player A:
+[ TS ][ 9C ][ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ][ 4C ][ 4D ]
+[ TH ][ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ][ 8H ]
+[ 6H ][ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ] [ ]  [ 3H ][ QS ]
+[ 4H ][ AH ][ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ 6H ]
+Player A:
+[ TS ][ 9C ][ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ][ 4C ][ 4D ]
+[ TH ][ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ][ 8H ]
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ] [ ]  [ 3H ][ QS ]
+[ 4H ][ AH ][ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ 8H ]
+Player A:
+[ TS ][ 9C ][ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ][ 4C ][ 4D ]
+[ TH ][ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ] [ ]  [ 3H ][ QS ]
+[ 4H ][ AH ][ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ 7C ]
+Player A:
+[ TS ][ 9C ][ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ][ 4C ][ 4D ]
+[ TH ][ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ][ 3H ][ QS ]
+[ 4H ][ AH ][ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ TH ]
+Player A:
+[ TS ][ 9C ][ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ][ 4C ][ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ][ 3H ][ QS ]
+[ 4H ][ AH ][ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ 4C ]
+Player A:
+[ TS ][ 9C ][ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ][ 3H ][ QS ]
+[ 4H ][ AH ][ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ AH ]
+Player A:
+[ TS ][ 9C ][ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ][ 3H ][ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ 9C ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ][ 3H ][ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ 3H ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ][ 2H ][ KH ][ JS ]
+
+------------------------
+Now calling [ 2H ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+[ AD ][ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ AD ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ][ QC ]
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ QC ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ][ 8C ]
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ 8C ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ][ AC ]
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ] [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ AC ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ][ JH ][ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ] [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ] [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ JH ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ] [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ] [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]  [ 5S ][ 7S ][ 2C ] [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ 5S ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ] [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]  [ KD ] [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ][ 2C ] [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ KD ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ] [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ][ 2C ] [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]  [ QS ]
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ QS ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ] [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ][ 2C ] [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ 2C ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+[ KS ] [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ] [ ]   [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ KS ]
+Player A:
+[ TS ] [ ]  [ 9D ][ 2S ][ TC ]
+ [ ]   [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ] [ ]   [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ 9D ]
+Player A:
+[ TS ] [ ]   [ ]  [ 2S ][ TC ]
+ [ ]   [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]  [ 3D ][ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ] [ ]   [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ 3D ]
+Player A:
+[ TS ] [ ]   [ ]  [ 2S ][ TC ]
+ [ ]   [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ][ 2D ] [ ]  [ 4D ]
+ [ ]   [ ]  [ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ] [ ]   [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ 2D ]
+Player A:
+[ TS ] [ ]   [ ]  [ 2S ][ TC ]
+ [ ]   [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ] [ ]   [ ]  [ 4D ]
+ [ ]   [ ]  [ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ] [ ]   [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ][ KC ]
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ KC ]
+Player A:
+[ TS ] [ ]   [ ]  [ 2S ][ TC ]
+ [ ]   [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ] [ ]   [ ]  [ 4D ]
+ [ ]   [ ]  [ 5D ][ 3C ] [ ]  
+
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ] [ ]   [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ] [ ]  
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+------------------------
+Now calling [ TS ]
+Player A:
+ [ ]   [ ]   [ ]  [ 2S ][ TC ]
+ [ ]   [ ]  [ 7H ][ 6S ][ QD ]
+[ JC ][ JD ] [ ]   [ ]   [ ]  
+ [ ]  [ TD ] [ ]   [ ]  [ 4D ]
+ [ ]   [ ]  [ 5D ][ 3C ] [ ]  
+            BINGO!            
+Player B:
+[ 9H ][ 5C ][ 8D ][ 9S ] [ ]  
+ [ ]   [ ]  [ 7S ] [ ]   [ ]  
+[ 6C ][ 4S ][ 7C ] [ ]   [ ]  
+[ 4H ] [ ]  [ QH ][ 8S ] [ ]  
+[ 7D ][ 6D ] [ ]  [ KH ][ JS ]
+
+Round 2: Player A won!
+Play another round (Y/N)? n
+Thank you for playing. Goodbye.

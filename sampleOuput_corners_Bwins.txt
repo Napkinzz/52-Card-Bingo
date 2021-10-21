@@ -1,0 +1,92 @@
+******************************
+Welcome to Playing Card Bingo!
+******************************
+Creating bingo deck...
+Please enter filename to initialize deck: bingoDeck.txt
+Creating calling deck...
+Please enter filename to initialize deck: callingDeck_corners_Bwins.txt
+Please select playing mode for this round: (L)ine, (C)orners, (F)ull > c
+Play speed round (i.e. compare card ranks only) (Y/N)? N
+
+Round 1 beginning...
+Player A:
+[ KS ][ AH ][ 6C ][ 5H ][ KC ]
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+[ JH ][ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ JH ]
+Player A:
+[ KS ][ AH ][ 6C ][ 5H ][ KC ]
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+ [ ]  [ QS ][ 6D ][ TS ][ TH ]
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ TH ]
+Player A:
+[ KS ][ AH ][ 6C ][ 5H ][ KC ]
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+ [ ]  [ QS ][ 6D ][ TS ] [ ]  
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+[ 7S ][ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ 7S ]
+Player A:
+[ KS ][ AH ][ 6C ][ 5H ][ KC ]
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+ [ ]  [ QS ][ 6D ][ TS ] [ ]  
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+ [ ]  [ 7D ][ 9D ][ 3H ][ 8D ]
+
+------------------------
+Now calling [ 8D ]
+Player A:
+[ KS ][ AH ][ 6C ][ 5H ][ KC ]
+[ TD ][ 7H ][ 9C ][ 8S ][ 4C ]
+[ 2D ][ AC ] [ ]  [ 4S ][ 4D ]
+[ 5D ][ 3D ][ TC ][ 8C ][ JC ]
+[ 9H ][ 5C ][ 7C ][ 5S ][ JS ]
+
+Player B:
+ [ ]  [ QS ][ 6D ][ TS ] [ ]  
+[ KD ][ 3C ][ 2C ][ 9S ][ AD ]
+[ QH ][ 2H ] [ ]  [ QD ][ 3S ]
+[ 6S ][ QC ][ JD ][ 6H ][ AS ]
+ [ ]  [ 7D ][ 9D ][ 3H ] [ ]  
+            BINGO!            
+Round 1: Player B won!
+Play another round (Y/N)? n
+Thank you for playing. Goodbye.
